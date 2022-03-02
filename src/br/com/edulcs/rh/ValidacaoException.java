@@ -1,4 +1,4 @@
-package edulcs.com.br;
+package br.com.edulcs.rh;
 
 import java.io.Serial;
 

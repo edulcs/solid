@@ -1,4 +1,4 @@
-package edulcs.com.br.model;
+package br.com.edulcs.rh.model;
 
 public enum Cargo {
 
@@ -8,3 +8,4 @@ public enum Cargo {
 	GERENTE
 
 }
+ 
